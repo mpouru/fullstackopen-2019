@@ -1,0 +1,34 @@
+{
+  "persons": [
+    {
+      "name": "Martti Tienari",
+      "number": "040-123456",
+      "id": 2
+    },
+    {
+      "name": "Arto Järvinen",
+      "number": "040-123456",
+      "id": 3
+    },
+    {
+      "name": "Jaska Jokunen",
+      "number": "555 5555",
+      "id": 6
+    },
+    {
+      "name": "Jonne Jokunen",
+      "number": "555 55555",
+      "id": 7
+    },
+    {
+      "name": "Milla Magia",
+      "number": "666 66666666",
+      "id": 9
+    },
+    {
+      "name": "Mikki Hiiri",
+      "number": "555 55555",
+      "id": 11
+    }
+  ]
+}
